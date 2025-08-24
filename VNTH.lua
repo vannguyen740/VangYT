@@ -8,6 +8,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
          },
         Key = {
         KeySystem = true,
+        KeySystem = false,
         Title = "Buy [ Premium ] vannguyen",
         Description = "VanNguyen",
         KeyLink = "https://discord.gg/4myQqXhm",
@@ -22,7 +23,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
   })
 
        MinimizeButton({
-       Image = "http://www.roblox.com/asset/?id=89823024060857",
+       Image = "http://www.roblox.com/asset/?id=139111634849604",
        Size = {60, 60},
        Color = Color3.fromRGB(10, 10, 10),
        Corner = true,
@@ -31,7 +32,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
       })
       
 ------ Tab
-     local Tab1o = MakeTab({Name = "Tự Động Hop"})
+     local Tab1o = MakeTab({Name = "Auto Hop"})
      local Tab2o = MakeTab({Name = "Script Blox Fruits"})
      local Tab3o = MakeTab({Name = "Support all game"})
      local Tab4o = MakeTab({Name = "Script Premium"})
@@ -40,11 +41,11 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V
      local Tab7o = MakeTab({Name = "Auto Bouty BloxFruits"})
      local Tab8o = MakeTab({Name = "Auto V4"})
      local Tab9o = MakeTab({Name = "Script Grow A Garden"})
-     local Tab10o = MakeTab({Name = "99 ngày Trong rừng"})
+     local Tab10o = MakeTab({Name = "99 Night In The Forest"})
      local Tab11o = MakeTab({Name = "Script Dead rail"})
      local Tab12o = MakeTab({Name = "sleat a brainrot"})
-     local Tab13o = MakeTab({Name = "Auto Lụm Trái"})
-     local Tab14o = MakeTab({Name = "Script Mua Premium"})
+     local Tab13o = MakeTab({Name = "Auto Fruit"})
+     local Tab14o = MakeTab({Name = "Script Buy Premium"})
      
 ------- BUTTON
     
